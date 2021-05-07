@@ -1,0 +1,15 @@
+.sorting-with-layout {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.layout {
+    display: flex;
+    margin-right: 30px;
+}
+.add-opacity {
+    opacity: 0.5;
+}
+.grid-btn {
+    margin-right: 15px;
+}
